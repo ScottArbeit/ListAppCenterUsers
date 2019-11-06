@@ -1,8 +1,7 @@
 {
   "profiles": {
     "ListAppCenterUsers": {
-      "commandName": "Project",
-      "commandLineArgs": "--apiToken 6167a6b90391d04290474c0c587949c9afda8ff5 --organization Scotts-Org --outputFile \"C:\\Intel\\Blah.txt\""
+      "commandName": "Project"
     }
   }
 }
